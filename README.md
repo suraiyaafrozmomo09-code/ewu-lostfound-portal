@@ -26,7 +26,7 @@ A modern web application for East West University's Lost & Found system.
 8. Responsive Modern Desig
 
  ## Access Information
-- **URL:** `http://localhost:8080/ewu-lostfound/`
+- **URL:** `http://localhost/ewu-lostfound/`
 - **Student Demo:** `student1@std.ewu.bd` / `password123`
 - **Admin Demo:** `admin@ewu.edu.bd` / `password123`
 - **Database:** MySQL on port 3307
