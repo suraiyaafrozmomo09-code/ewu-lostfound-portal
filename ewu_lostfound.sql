@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 16, 2025 at 02:31 PM
+-- Generation Time: Dec 16, 2025 at 02:42 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -141,8 +141,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `name`, `phone`, `role`, `created_at`) VALUES
-(10, 'student1@std.ewu.bd', '$2y$10$tQmBsY3q/wab8q334umPSuA4/I9O3OAWMOpMye5rjZk3x83hGNbiO', 'John Doe', '01710000001', 'student', '2025-12-06 22:51:12'),
-(11, 'student2@std.ewu.bd', '$2y$10$tQmBsY3q/wab8q334umPSuA4/I9O3OAWMOpMye5rjZk3x83hGNbiO', 'Jane Smith', '01710000002', 'student', '2025-12-06 22:51:12'),
+(10, 'student1@std.ewu.bd', '$2y$10$tQmBsY3q/wab8q334umPSuA4/I9O3OAWMOpMye5rjZk3x83hGNbiO', 'Student 1', '01710000001', 'student', '2025-12-06 22:51:12'),
+(11, 'student2@std.ewu.bd', '$2y$10$tQmBsY3q/wab8q334umPSuA4/I9O3OAWMOpMye5rjZk3x83hGNbiO', 'Student 2', '01710000002', 'student', '2025-12-06 22:51:12'),
 (12, 'admin@ewu.edu.bd', '$2y$10$tQmBsY3q/wab8q334umPSuA4/I9O3OAWMOpMye5rjZk3x83hGNbiO', 'System Admin', '01710000000', 'admin', '2025-12-06 22:51:12'),
 (13, '2023-1-60-098@std.ewubd.edu', '$2y$10$27.ZOOC7grkLTJdC.ZBhMOmMquxICEcVuDtRCFxtqHa/G4mfHZ1lS', 'Suraiya Afroz', '01764189962', 'student', '2025-12-15 16:10:30');
 
